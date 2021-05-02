@@ -1,4 +1,4 @@
 build/*
 !build/README.md
-./main
-./.vscode
+main
+.vscode
